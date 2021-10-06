@@ -24,4 +24,4 @@ View [full report](https://github.com/persistenceOne/pstake-audits/blob/main/pST
 
 Commit hash : [https://github.com/persistenceOne/pStake-smartContracts](https://github.com/persistenceOne/pStake-smartContracts).  (b11f4c83614facb5554d26ec6e39545f089e82e1)
 
-View [full report](https://github.com/persistenceOne/pstake-audits/blob/main/pSTAKE%20Smart%20Contract%20Audit%20-%20Solidified%20%5B02.08.2021%5D.pdf).  for more details.
+View [full report](https://github.com/persistenceOne/pstake-audits/blob/main/pSTAKE%20Smart%20Contract%20Audit%20-%20Solidified%20%5B02.08.2021%5D.pdf) for more details.
