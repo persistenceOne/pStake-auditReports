@@ -11,6 +11,7 @@
 * Informational risk bugs identified : 0
 
 Commmit hash : [https://github.com/persistenceOne/pStakeSmartContracts.git](https://github.com/persistenceOne/pStake-smartContracts) (ee0618d)
+
 View [full report](https://github.com/persistenceOne/pstake-audits/blob/main/pSTAKE%20Smart%20Contract%20Audit%20-%20PeckShield%20%5B09.07.2021%5D.pdf) for more details.
 
 ### Sept 2021 Solidified Audit
