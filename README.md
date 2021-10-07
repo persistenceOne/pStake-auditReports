@@ -1,6 +1,6 @@
 # pSTAKE Security Audits
 
-## Smart Contract Audits
+## Smart Contract Audit Reports
 
 ### July 2021 Peckshield Audit
 
