@@ -27,7 +27,7 @@ Commmit hash : [https://github.com/persistenceOne/pStakeSmartContracts.git](http
 
 View [full report](https://consensys.net/diligence/audits/2021/08/pstake-finance/) for more details.
 
-### Sept 2021 Solidified 
+### Aug 2021 Solidified 
 
 * Critical bugs identified : 0
 * High risk bugs identified : 0
