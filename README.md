@@ -25,7 +25,7 @@ View [full report](https://github.com/persistenceOne/pStake-auditReports/blob/ma
 
 Commmit hash : [https://github.com/persistenceOne/pStakeSmartContracts.git](https://github.com/persistenceOne/pStake-smartContracts) (ca3e035454dc565a762a1cc03fdd99c7bf52da37)
 
-View [full report](https://consensys.net/diligence/audits/2021/08/pstake-finance/#findings) for more details.
+View [full report](https://consensys.net/diligence/audits/2021/08/pstake-finance/) for more details.
 
 ### Sept 2021 Solidified 
 
