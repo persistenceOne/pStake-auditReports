@@ -2,6 +2,16 @@
 
 ## Smart Contract Audit Reports
 
+### Jan 2022 Peckshield - Smart Contract
+
+* Critical bugs identified : 0
+* High risk bugs identified : 0
+* Medium risk bugs identified : 2
+* Low risk bugs identified : 
+* Informational risk bugs identified : 0
+
+View [full report](https://github.com/persistenceOne/pStake-auditReports/blob/main/pSTAKE%20Smart%20Contracts%20Audit%20-%20PeckShield%20%5B7:1:2022%5D.pdf) for more details.
+
 ### Nov 2021 Peckshield - Stake LP
 
 * Critical bugs identified : 0
