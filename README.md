@@ -75,4 +75,14 @@ Commit hash : [https://github.com/persistenceOne/persistenceBridge/releases/tag/
 
 View [full report](https://github.com/persistenceOne/pStake-auditReports/blob/main/pBridge%20Audit%20-%20Oak%20Security%20%5B23.11.2021%5D.pdf) for more details.
 
+## Persistence Anchor Integration Smart Contracts Audit Reports
 
+### Jan 2022 Oak Security
+
+* Critical bugs identified : 0
+* High risk bugs identified : 0
+* Medium risk bugs identified : 0
+* Low risk bugs identified : 2
+* Informational risk bugs identified : 3
+
+View [full report](https://github.com/persistenceOne/pStake-auditReports/blob/main/Persistence%20Anchor%20Integration%20Smart%20Contracts%20-%20Solidified%20%5B25.01.2022%5D.pdf) for more details.
