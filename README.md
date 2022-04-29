@@ -2,12 +2,34 @@
 
 ## Smart Contract Audit Reports
 
+### Apr 2022 Trail of Bits - ETH2.0 Staking
+
+* Critical bugs identified : 0
+* High risk bugs identified : 2
+* Medium risk bugs identified : 1
+* Low risk bugs identified : 1
+* Informational risk bugs identified : 2
+* Undetermined risk bugs identified : 2
+
+View [full report](https://github.com/persistenceOne/pStake-auditReports/blob/main/pSTAKE%20ETH2.0%20Staking%20Audit%20-%20Trail%20of%20Bits%20%5B26.04.22%5D.pdf) for more details.
+
+### Apr 2022 Trail of Bits - Smart Contracts + pBridge
+
+* Critical bugs identified : 0
+* High risk bugs identified : 0
+* Medium risk bugs identified : 0
+* Low risk bugs identified : 10
+* Informational risk bugs identified : 5
+* Undetermined risk bugs identified : 3
+
+View [full report](https://github.com/persistenceOne/pStake-auditReports/blob/main/pStake%20Smart%20Contracts%20%2B%20Bridge%20Audit%20-%20Trail%20of%20Bits%20%5B26.04.22%5D.pdf) for more details.
+
 ### Jan 2022 Peckshield - Smart Contract
 
 * Critical bugs identified : 0
 * High risk bugs identified : 0
 * Medium risk bugs identified : 2
-* Low risk bugs identified : 
+* Low risk bugs identified : 0
 * Informational risk bugs identified : 0
 
 View [full report](https://github.com/persistenceOne/pStake-auditReports/blob/main/pSTAKE%20Smart%20Contracts%20Audit%20-%20PeckShield%20%5B7:1:2022%5D.pdf) for more details.
