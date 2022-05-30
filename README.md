@@ -2,6 +2,16 @@
 
 ## Smart Contract Audit Reports
 
+### May 2022 Peckshield - ETH2.0 Staking
+
+* Critical bugs identified : 0
+* High risk bugs identified : 0
+* Medium risk bugs identified : 1
+* Low risk bugs identified : 2
+* Informational risk bugs identified : 0
+
+View [full report](https://github.com/persistenceOne/pStake-auditReports/blob/main/pSTAKE%20ETH2.0%20Staking%20Audit%20-%20Peckshield%20%5B26.05.2022%5D.pdf) for more details.
+
 ### Apr 2022 Trail of Bits - ETH2.0 Staking
 
 * Critical bugs identified : 0
